@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/go-redis/redis/v7"
+	"github.com/webpkg/redis"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

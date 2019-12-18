@@ -31,13 +31,13 @@ go-redis requires a Go version with [Modules](https://github.com/golang/go/wiki/
 
 ``` shell
 go mod init github.com/my/repo
-go get github.com/go-redis/redis/v7
+go get github.com/webpkg/redis
 ```
 
 Import:
 
 ``` go
-import "github.com/go-redis/redis/v7"
+import "github.com/webpkg/redis"
 ```
 
 ## Quickstart
